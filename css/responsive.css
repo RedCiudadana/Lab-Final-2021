@@ -52,7 +52,7 @@
         right: -40px;
     }
     .mixer-area2:after {
-        height: 683px;
+        height: auto;
     }
     .helping-area2:after {
         height: 934px;
