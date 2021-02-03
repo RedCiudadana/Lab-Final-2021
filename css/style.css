@@ -1383,12 +1383,12 @@ a:hover {
     background: #f1ae44;
     color: #fff;
     font-weight: 600;
-    width: 70px;
+    width: 90px;
     height: 54px;
     line-height: 54px;
     position: absolute;
     top: 50%;
-    left: 55%;
+    left: 50%;
     text-align: center;
     padding-left: 5px;
     -webkit-transform: translate(-50%, -50%);
